@@ -2,6 +2,17 @@ from enum import Enum
 
 
 class Scheme(Enum):
-    Xiaohe = 1
     小鹤 = 1
-    Xnhe = 1
+    Xiaohe = 1
+
+    自然码 = 2
+    Ziranma = 2
+
+    搜狗 = 3
+    Sogou = 3
+
+    微软 = 4
+    Microsoft = 4
+
+    智能ABC = 5
+    ZNABC = 5
